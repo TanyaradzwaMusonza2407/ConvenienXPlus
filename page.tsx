@@ -11,3 +11,4 @@ ConvenienXPlus/
 ├── tailwind.config.js
 ├── tsconfig.json (if using TypeScript)
 ├── README.md
+Add main page component
